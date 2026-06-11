@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Tuify Studio</title>
     <atom:link rel="self" type="application/rss+xml" href="https://nocodeux.github.io/tuify-releases/appcast-beta.xml" />
+    <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Thu, 11 Jun 2026 01:25:04 +0000</pubDate>
+      <enclosure url="https://github.com/nocodeux/tuify-releases/releases/download/v0.1.0-beta/TuifyStudio-0.1.0-beta.dmg" sparkle:version="202606102014" sparkle:shortVersionString="0.1.0" length="10163169" type="application/octet-stream" sparkle:edSignature="lUdShNdvHCo0p9D20HTm6g8mnWQu41kE/nZz+0ob6AohAtLCG5BSwihp6ruyQlbNMrAaVVv+N+BI2uBIBUErCg==" />
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    </item>
   </channel>
 </rss>
