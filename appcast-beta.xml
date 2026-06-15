@@ -5,6 +5,12 @@
     <atom:link rel="self" type="application/rss+xml" href="https://nocodeux.github.io/tuify-releases/appcast-beta.xml" />
     <item>
       <title>Version 0.2.2</title>
+      <pubDate>Mon, 15 Jun 2026 10:07:01 +0000</pubDate>
+      <enclosure url="https://github.com/nocodeux/tuify-releases/releases/download/v0.2.2-beta/TuifyStudio-0.2.2-beta.dmg" sparkle:version="202606150444" sparkle:shortVersionString="0.2.2" length="11980172" type="application/octet-stream" sparkle:edSignature="0gnyR8lJ9d7XWSPYkk5IikQUyyJCkhMw7UJBzvFbr2nVmYEE0SUWUcuqHBvlYiK2PHgZcGydlNOJovuFUQ3pAw==" />
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    </item>
+    <item>
+      <title>Version 0.2.2</title>
       <pubDate>Mon, 15 Jun 2026 09:50:59 +0000</pubDate>
       <enclosure url="https://github.com/nocodeux/tuify-releases/releases/download/v0.2.2-beta/TuifyStudio-0.2.2-beta.dmg" sparkle:version="202606150444" sparkle:shortVersionString="0.2.2" length="162332" type="application/octet-stream" sparkle:edSignature="SFMP0OuvqyPRfG+iyO2J7CWtrYqMd9/bBob5yp99WCOE458qhGAIqYuR9GuO6VQKgkheoglUeKCdWJAlV0LLBw==" />
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
