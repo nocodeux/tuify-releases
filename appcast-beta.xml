@@ -5,6 +5,12 @@
     <atom:link rel="self" type="application/rss+xml" href="https://nocodeux.github.io/tuify-releases/appcast-beta.xml" />
     <item>
       <title>Version 0.2.2</title>
+      <pubDate>Mon, 15 Jun 2026 10:18:12 +0000</pubDate>
+      <enclosure url="https://github.com/nocodeux/tuify-releases/releases/download/v0.2.2-beta/TuifyStudio-0.2.2-beta.dmg" sparkle:version="202606150444" sparkle:shortVersionString="0.2.2" length="11981002" type="application/octet-stream" sparkle:edSignature="Da7Pn+F1Q+MojG+SzbS22bh9QKSXuWE0SzmwshkXHz5Lonrl/NAxBP0opWo0FUIMRSvYSss0RtOnFfntC5AjAA==" />
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+    </item>
+    <item>
+      <title>Version 0.2.2</title>
       <pubDate>Mon, 15 Jun 2026 10:07:01 +0000</pubDate>
       <enclosure url="https://github.com/nocodeux/tuify-releases/releases/download/v0.2.2-beta/TuifyStudio-0.2.2-beta.dmg" sparkle:version="202606150444" sparkle:shortVersionString="0.2.2" length="11980172" type="application/octet-stream" sparkle:edSignature="0gnyR8lJ9d7XWSPYkk5IikQUyyJCkhMw7UJBzvFbr2nVmYEE0SUWUcuqHBvlYiK2PHgZcGydlNOJovuFUQ3pAw==" />
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
@@ -25,12 +31,6 @@
       <title>Version 0.2.0</title>
       <pubDate>Thu, 11 Jun 2026 13:10:38 +0000</pubDate>
       <enclosure url="https://github.com/nocodeux/tuify-releases/releases/download/v0.2.0-beta/TuifyStudio-0.2.0-beta.dmg" sparkle:version="202606110803" sparkle:shortVersionString="0.2.0" length="10558906" type="application/octet-stream" sparkle:edSignature="bFptQXdLR0L6UCNPL/BkVa27e56olPi6Y3oRkwPFYXgsfH0B47TpooHr7UyA2uglQoHQvOrYATyOXJZe6P0nBQ==" />
-      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-    </item>
-    <item>
-      <title>Version 0.1.0</title>
-      <pubDate>Thu, 11 Jun 2026 01:25:04 +0000</pubDate>
-      <enclosure url="https://github.com/nocodeux/tuify-releases/releases/download/v0.1.0-beta/TuifyStudio-0.1.0-beta.dmg" sparkle:version="202606102014" sparkle:shortVersionString="0.1.0" length="10163169" type="application/octet-stream" sparkle:edSignature="lUdShNdvHCo0p9D20HTm6g8mnWQu41kE/nZz+0ob6AohAtLCG5BSwihp6ruyQlbNMrAaVVv+N+BI2uBIBUErCg==" />
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
     </item>
   </channel>
